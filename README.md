@@ -8,3 +8,5 @@ HTML | CSS | JAVASCRIPT | PYTHON | JAVA | C++ | DJANGO | MYSQL | GIT | DOCKER
 
 
 My most recent notable project is : [MMUxplore](https://github.com/nidqija/MMUXplore-Research-Tracker/tree/raziq2)
+
+I'm planning to work on : [Numero-Hobby-Track](https://github.com/C2Meng/numerus_hobby_track)

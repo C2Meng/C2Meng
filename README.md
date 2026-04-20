@@ -1,6 +1,6 @@
 
-# 💫Hi there:
-I am [C2Meng](https://github.com/C2Meng)<br><br>I’m a aspiring software engineer based in Malaysia 🇲🇾 <br>I also have an interest in web development<br><br>My most recent notable project is : [MMUxplore](https://github.com/nidqija/MMUXplore-Research-Tracker/tree/raziq2)<br><br>I'm planning to work on : [Numero-Hobby-Track](https://github.com/C2Meng/numerus_hobby_track)<br>
+# 💫About me:
+Hi there, I am [C2Meng](https://github.com/C2Meng)<br><br>I’m a aspiring software engineer based in Malaysia 🇲🇾 <br>I also have an interest in web development<br><br>My most recent notable project is : [MMUxplore](https://github.com/nidqija/MMUXplore-Research-Tracker/tree/raziq2)<br><br>I'm planning to work on : [Numero-Hobby-Track](https://github.com/C2Meng/numerus_hobby_track)<br>
 
 
 # 💻 Tech Stack:

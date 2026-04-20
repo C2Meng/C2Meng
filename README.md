@@ -4,7 +4,7 @@ I’m an aspiring software engineer based in Malaysia 🇲🇾\
 I also have an interest in web development :>
 
 ## TECH STACK 
-HTML  CSS  Javascript  Python  Java  C++  Django  MySQL  Git  Docker
+HTML • CSS • Javascript • Python • Java • C++ • Django • MySQL • Git • Docker
 
 
 My most recent notable project is : [MMUxplore](https://github.com/nidqija/MMUXplore-Research-Tracker/tree/raziq2)

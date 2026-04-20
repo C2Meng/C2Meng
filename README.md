@@ -1,6 +1,6 @@
 # Hi there, I am [C2Meng](https://github.com/C2Meng)
 
-I’m an aspiring software engineer based in Malaysia 🇲🇾 \n
+I’m an aspiring software engineer based in Malaysia 🇲🇾\
 I also have an interest in web development :>
 
 ## TECH STACK 

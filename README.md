@@ -1,7 +1,7 @@
 # Hi there, I am [C2Meng](https://github.com/C2Meng)
 
-I’m an aspiring software engineer based in Malaysia 🇲🇾
-I also have interest in web development :>
+I’m an aspiring software engineer based in Malaysia 🇲🇾 \n
+I also have an interest in web development :>
 
 ## TECH STACK 
 HTML | CSS | JAVASCRIPT | PYTHON | JAVA | C++ | DJANGO | MYSQL | GIT | DOCKER

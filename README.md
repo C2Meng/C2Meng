@@ -1,9 +1,8 @@
-## Hi there, I am [C2Meng](https://github.com/C2Meng)
+# Hi there, I am [C2Meng](https://github.com/C2Meng)
 
 Hi, I’m an aspiring software engineer based in Malaysia 🇲🇾
 
-# TECH STACK 
------------------------------------------------------------------------------------
+## TECH STACK 
 HTML | CSS | JAVASCRIPT | PYTHON | JAVA | C++ | DJANGO | MYSQL | GIT | DOCKER
 
 

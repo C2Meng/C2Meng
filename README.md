@@ -1,8 +1,8 @@
 
 # 💫About me:
 Hi there, I am [C2Meng](https://github.com/C2Meng)<br><br>I’m a aspiring software engineer based in Malaysia 🇲🇾 <br>I also have an interest in web development<br><br>Most recent notable project is : [MMUxplore](https://github.com/nidqija/MMUXplore-Research-Tracker/tree/raziq2)<br><br>I'm working on :<br>
-[Numero-Hobby-Track](https://github.com/C2Meng/numerus_hobby_track)<br>
-[WordPress](https://github.com/C2Meng/iceytest_wp)<br>
+[Numero-Hobby-Track](https://github.com/C2Meng/numerus_hobby_track) : CRUD Hobby Tracker built on Python, Django, SQLite and REST<br>
+[WordPress](https://github.com/C2Meng/iceytest_wp): Trying out blog posting<br>
 
 
 
